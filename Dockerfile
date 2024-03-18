@@ -1,2 +1,2 @@
-FROM registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.11
+FROM k8s.mirror.nju.edu.cn/prometheus-adapter/prometheus-adapter:v0.11
 LABEL name=genghao

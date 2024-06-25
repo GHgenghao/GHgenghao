@@ -1,2 +1,2 @@
-FROM golang:1.19
+FROM node:18
 LABEL name=genghao

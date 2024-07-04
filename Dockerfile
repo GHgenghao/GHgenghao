@@ -1,2 +1,2 @@
-FROM registry-vpc.cn-hangzhou.aliyuncs.com/marmot/credit-oa:latest
+FROM node:18
 LABEL name=genghao

@@ -1,2 +1,2 @@
-FROM node:18
+FROM kong:3.3.0
 LABEL name=genghao
